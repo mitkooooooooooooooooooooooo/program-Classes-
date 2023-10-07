@@ -21,7 +21,7 @@
             int finalResult = divisionResult * num4;
 
             
-            Console.WriteLine("Result: " + finalResult);
+            Console.WriteLine(finalResult);
 
         }
     }
