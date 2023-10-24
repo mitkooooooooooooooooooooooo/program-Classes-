@@ -1,6 +1,5 @@
 ﻿namespace Zig_zag_rAYS
 {
-    using System;
 
     class Program
     {
